@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/os_exp/!svn/ver/3/include
+END
+sconst.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/os_exp/!svn/ver/1/include/sconst.inc
+END
+hd.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/os_exp/!svn/ver/3/include/hd.h
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/os_exp/!svn/ver/1/include/keyboard.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/1/include/global.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/os_exp/!svn/ver/2/include/console.h
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/3/include/proto.h
+END
+proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/os_exp/!svn/ver/1/include/proc.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/2/include/config.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/2/include/string.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/os_exp/!svn/ver/1/include/fs.h
+END
+tty.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/os_exp/!svn/ver/2/include/tty.h
+END
+protect.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/os_exp/!svn/ver/2/include/protect.h
+END
+type.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/os_exp/!svn/ver/3/include/type.h
+END
+keymap.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/1/include/keymap.h
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/3/include/const.h
+END

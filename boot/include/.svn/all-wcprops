@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/os_exp/!svn/ver/2/boot/include
+END
+fat12hdr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/os_exp/!svn/ver/2/boot/include/fat12hdr.inc
+END
+pm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/os_exp/!svn/ver/2/boot/include/pm.inc
+END
+load.inc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/os_exp/!svn/ver/2/boot/include/load.inc
+END

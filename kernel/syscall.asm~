@@ -1,0 +1,43 @@
+
+; ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;                               syscall.asm
+; ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;                                                     Forrest Yu, 2005
+; ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+%include "sconst.inc"
+
+;_NR_get_ticks       equ 0 ; 要跟 global.c 中 sys_call_table 的定义相对应！
+_NR_printx	   		 equ 0
+_NR_sendrec			equ	1
+INT_VECTOR_SYS_CALL equ 0x90
+
+global	printx
+global	sendrec
+
+bits 32
+[section .text]
+
+
+; ====================================================================================
+;                          void printx(char* s);
+; ====================================================================================
+printx:
+	mov	eax, _NR_printx
+	mov	edx, [esp + 4]
+	int	INT_VECTOR_SYS_CALL
+	ret
+
+;========================================================================================
+;                   int sendrec(int function,int src_dest,MESSAGE* p_msg);
+;========================================================================================
+
+sendrec:
+	mov		eax,_NR_sendrec
+	mov 	ebx,[esp+4];
+	mov	 	ecx,[esp+8];
+	mov 	edx,[esp+12];
+	int		INT_VECTOR_SYS_CALL
+	ret
+	
+

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/os_exp/!svn/ver/3/kernel
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/2/kernel/global.c
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/os_exp/!svn/ver/1/kernel/keyboard.c
+END
+systask.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/1/kernel/systask.c
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/1/kernel/console.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/1/kernel/printf.c
+END
+proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/os_exp/!svn/ver/1/kernel/proc.c
+END
+syscall.asm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/os_exp/!svn/ver/2/kernel/syscall.asm
+END
+vsprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/os_exp/!svn/ver/1/kernel/vsprintf.c
+END
+kernel.asm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/os_exp/!svn/ver/1/kernel/kernel.asm
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/os_exp/!svn/ver/1/kernel/tty.c
+END
+kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/1/kernel/kernel.c
+END
+protect.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/os_exp/!svn/ver/2/kernel/protect.c
+END
+i8259A.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/2/kernel/i8259A.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/os_exp/!svn/ver/1/kernel/main.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/os_exp/!svn/ver/3/kernel/clock.c
+END
+hd.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/os_exp/!svn/ver/3/kernel/hd.c
+END
+kern.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/1/kernel/kern.txt
+END
+start.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/os_exp/!svn/ver/2/kernel/start.c
+END

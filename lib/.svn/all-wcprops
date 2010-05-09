@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/os_exp/!svn/ver/3/lib
+END
+kliba.asm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/os_exp/!svn/ver/3/lib/kliba.asm
+END
+klib.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/os_exp/!svn/ver/2/lib/klib.c
+END
+string.asm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/os_exp/!svn/ver/2/lib/string.asm
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/os_exp/!svn/ver/1/lib/misc.c
+END

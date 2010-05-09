@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/os_exp/!svn/ver/2/boot
+END
+boot.asm
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/os_exp/!svn/ver/1/boot/boot.asm
+END
+LOADER.asm
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/os_exp/!svn/ver/1/boot/LOADER.asm
+END
